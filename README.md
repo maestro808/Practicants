@@ -26,5 +26,3 @@ Aplikace odstraní odpovídající záznam z databáze.
 Vyhledávání podle školy nebo roku studia:
 
 Uživatel zadá název školy nebo rok studia, a aplikace zobrazí všechny praktikanty odpovídající hledanému kritériu.
-
-Předpokládaná pracnost: cca 10 hodin. Dejte mi prosím vědět, kdy bychom mohli spolu ukázkový kód projít.
